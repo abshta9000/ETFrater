@@ -1,0 +1,106 @@
+Ticker,"Name
+","Fund Asset Class Focus
+","Fund Market Cap Focus
+",Strategy,"Fund Industry Focus
+","Fund Geographical Focus
+","Maturity Band
+","Fund Rating Class Focus
+",Expense Ratio,Actively Managed?,,ARKK,ARK INNOVATION ETF,Equity,Broad Market,Blend,N.A.,United States,N.A.,N.A.,0.75,Y
+MSOS,ADVISORSHARES PURE US CANN,Equity,Broad Market,Growth,Thematic,United States,N.A.,N.A.,0.74,Y,,AVUV,AVANTIS US SMALL CAP VALUE,Equity,Small-cap,Value,N.A.,United States,N.A.,N.A.,0.25,Y
+,,,,,,,,,,,,LCTU,BLACKROCK US CARBON TR READ,Equity,Large-cap,Blend,N.A.,United States,N.A.,N.A.,0.3,Y
+,,,,,,,,,,,,XLC,COMM SERV SELECT SECTOR SPDR,Equity,Large-cap,Blend,Communications,United States,N.A.,N.A.,0.1,N
+,,,,,,,,,,,,XLY,CONSUMER DISCRETIONARY SELT,Equity,Large-cap,Growth,Consumer Discretionary,United States,N.A.,N.A.,0.1,N
+,,,,,,,,,,,,XLP,CONSUMER STAPLES SPDR,Equity,Large-cap,Blend,Consumer Staples,United States,N.A.,N.A.,0.1,N
+,,,,,,,,,,,,XLE,ENERGY SELECT SECTOR SPDR,Equity,Large-cap,Blend,Energy,United States,N.A.,N.A.,0.1,N
+,,,,,,,,,,,,XLF,FINANCIAL SELECT SECTOR SPDR,Equity,Large-cap,Blend,Financial,United States,N.A.,N.A.,0.1,N
+,,,,,,,,,,,,GRID,FIRST TRST NASD CL EDG SGIIF,Equity,Broad Market,Blend,Thematic,Global,N.A.,N.A.,0.7,N
+,,,,,,,,,,,,FAN,FIRST TRUST GLOBAL WIND ENER,Equity,Broad Market,Blend,Energy,Global,N.A.,N.A.,0.6,N
+,,,,,,,,,,,,PAVE,GLOBAL X US INFRASTRUCTURE,Equity,Broad Market,Blend,Thematic,United States,N.A.,N.A.,0.47,N
+,,,,,,,,,,,,XLV,HEALTH CARE SELECT SECTOR,Equity,Large-cap,Blend,Health Care,United States,N.A.,N.A.,0.1,N
+,,,,,,,,,,,,XLI,INDUSTRIAL SELECT SECT SPDR,Equity,Large-cap,Blend,Industrials,United States,N.A.,N.A.,0.1,N
+,,,,,,,,,,,,QQQ,INVESCO QQQ TRUST SERIES 1,Equity,Large-cap,Growth,N.A.,United States,N.A.,N.A.,0.2,N
+,,,,,,,,,,,,RSP,INVESCO S&P 500 EQUAL WEIGHT,Equity,Large-cap,Blend,N.A.,United States,N.A.,N.A.,0.2,N
+,,,,,,,,,,,,TAN,INVESCO SOLAR ETF,Equity,Broad Market,Blend,Energy,Global,N.A.,N.A.,0.66,N
+,,,,,,,,,,,,PHO,INVESCO WATER RESOURCES ETF,Equity,Broad Market,Blend,Thematic,United States,N.A.,N.A.,0.6,N
+,,,,,,,,,,,,PBW,INVESCO WILDERHILL CLEAN ENE,Equity,Broad Market,Blend,Thematic,United States,N.A.,N.A.,0.62,N
+,,,,,,,,,,,,IBB,ISHARES BIOTECHNOLOGY ETF,Equity,Broad Market,Blend,Health Care,United States,N.A.,N.A.,0.44,N
+,,,,,,,,,,,,DGRO,ISHARES CORE DIVIDEND GROWTH,Equity,Broad Market,Blend,N.A.,United States,N.A.,N.A.,0.08,N
+,,,,,,,,,,,,IEFA,ISHARES CORE MSCI EAFE ETF,Equity,Large-cap,Blend,N.A.,International,N.A.,N.A.,0.07,N
+,,,,,,,,,,,,IEMG,ISHARES CORE MSCI EMERGING,Equity,Large-cap,Blend,N.A.,International,N.A.,N.A.,0.09,N
+,,,,,,,,,,,,IVV,ISHARES CORE S&P 500 ETF,Equity,Large-cap,Blend,N.A.,United States,N.A.,N.A.,0.03,N
+,,,,,,,,,,,,IJH,ISHARES CORE S&P MIDCAP ETF,Equity,Mid-cap,Blend,N.A.,United States,N.A.,N.A.,0.05,N
+,,,,,,,,,,,,IJR,ISHARES CORE S&P SMALL-CAP E,Equity,Small-cap,Blend,N.A.,United States,N.A.,N.A.,0.06,N
+,,,,,,,,,,,,ESGU,ISHARES ESG AWARE MSCI USA,Equity,Broad Market,Blend,N.A.,United States,N.A.,N.A.,0.15,N
+,,,,,,,,,,,,ICLN,ISHARES GLOBAL CLEAN ENERGY,Equity,Broad Market,Blend,Energy,Global,N.A.,N.A.,0.4,N
+,,,,,,,,,,,,ESGE,ISHARES INC ISHARES ESG AWAR,Equity,Large-cap,Blend,N.A.,International,N.A.,N.A.,0.25,N
+,,,,,,,,,,,,EWA,ISHARES MSCI AUSTRALIA ETF,Equity,Large-cap,Blend,N.A.,Australia,N.A.,N.A.,0.5,N
+,,,,,,,,,,,,EWZ,ISHARES MSCI BRAZIL ETF,Equity,Large-cap,Blend,N.A.,Brazil,N.A.,N.A.,0.58,N
+,,,,,,,,,,,,MCHI,ISHARES MSCI CHINA ETF,Equity,Large-cap,Blend,N.A.,China,N.A.,N.A.,0.58,N
+,,,,,,,,,,,,EFA,ISHARES MSCI EAFE ETF,Equity,Large-cap,Blend,N.A.,International,N.A.,N.A.,0.33,N
+,,,,,,,,,,,,INDA,ISHARES MSCI INDIA ETF,Equity,Broad Market,Blend,N.A.,India,N.A.,N.A.,0.68,N
+,,,,,,,,,,,,DSI,ISHARES MSCI KLD 400 SOCIAL,Equity,Large-cap,Blend,Thematic,United States,N.A.,N.A.,0.25,N
+,,,,,,,,,,,,EWW,ISHARES MSCI MEXICO ETF,Equity,Broad Market,Blend,N.A.,Mexico,N.A.,N.A.,0.5,N
+,,,,,,,,,,,,EWT,ISHARES MSCI TAIWAN ETF,Equity,Broad Market,Blend,N.A.,Taiwan,N.A.,N.A.,0.58,N
+,,,,,,,,,,,,USMV,ISHARES MSCI USA MIN VOL FAC,Equity,Large-cap,Blend,N.A.,United States,N.A.,N.A.,0.15,N
+,,,,,,,,,,,,MTUM,ISHARES MSCI USA MOMENTUM FA,Equity,Large-cap,Growth,N.A.,United States,N.A.,N.A.,0.15,N
+,,,,,,,,,,,,QUAL,ISHARES MSCI USA QUALITY FAC,Equity,Large-cap,Blend,N.A.,United States,N.A.,N.A.,0.15,N
+,,,,,,,,,,,,IWF,ISHARES RUSSELL 1000 GROWTH,Equity,Large-cap,Growth,N.A.,United States,N.A.,N.A.,0.18,N
+,,,,,,,,,,,,IWD,ISHARES RUSSELL 1000 VALUE E,Equity,Large-cap,Value,N.A.,United States,N.A.,N.A.,0.18,N
+,,,,,,,,,,,,IWM,ISHARES RUSSELL 2000 ETF,Equity,Small-cap,Blend,N.A.,United States,N.A.,N.A.,0.19,N
+,,,,,,,,,,,,ESGD,ISHARES TRUST ISHARES ESG AW,Equity,Large-cap,Blend,N.A.,International,N.A.,N.A.,0.2,N
+,,,,,,,,,,,,ITA,ISHARES U.S. AEROSPACE & DEF,Equity,Broad Market,Blend,Industrials,United States,N.A.,N.A.,0.39,N
+,,,,,,,,,,,,IYW,ISHARES USTECHNOLOGY ETF,Equity,Large-cap,Growth,Technology,United States,N.A.,N.A.,0.39,N
+,,,,,,,,,,,,BBCA,JPMORGAN BETABUILDERS CANADA,Equity,Broad Market,Blend,N.A.,Canada,N.A.,N.A.,0.19,N
+,,,,,,,,,,,,JEPI,JPMORGAN EQUITY PREMIUM INCO,Equity,Broad Market,Value,N.A.,United States,N.A.,N.A.,0.35,Y
+,,,,,,,,,,,,COWZ,PACER US CASH COWS 100 ETF,Equity,Broad Market,Value,N.A.,United States,N.A.,N.A.,0.49,N
+,,,,,,,,,,,,NOBL,PROSHARES S&P 500 DIVIDEND A,Equity,Large-cap,Value,N.A.,United States,N.A.,N.A.,0.35,N
+,,,,,,,,,,,,IPO,RENAISSANCE IPO ETF,Equity,Broad Market,Growth,Thematic,United States,N.A.,N.A.,0.6,N
+,,,,,,,,,,,,SCHD,SCHWAB US DVD EQUITY ETF,Equity,Large-cap,Value,N.A.,United States,N.A.,N.A.,0.06,N
+,,,,,,,,,,,,SPY,SPDR S&P 500 ETF TRUST,Equity,Large-cap,Blend,N.A.,United States,N.A.,N.A.,0.094,N
+,,,,,,,,,,,,XLK,TECHNOLOGY SELECT SECT SPDR,Equity,Large-cap,Growth,Technology,United States,N.A.,N.A.,0.1,N
+,,,,,,,,,,,,XLU,UTILITIES SELECT SECTOR SPDR FUND,Equity,Broad Market,Blend,Utilities,United States,N.A.,N.A.,0.1,N
+,,,,,,,,,,,,MOAT,VANECK MORNINGSTAR WIDE MOAT,Equity,Large-cap,Blend,N.A.,United States,N.A.,N.A.,0.46,N
+,,,,,,,,,,,,SMH,VANECK SEMICONDUCTOR ETF,Equity,Large-cap,Growth,Technology,United States,N.A.,N.A.,0.35,N
+,,,,,,,,,,,,VIG,VANGUARD DIVIDEND APPREC ETF,Equity,Large-cap,Value,N.A.,United States,N.A.,N.A.,0.06,N
+,,,,,,,,,,,,ESGV,VANGUARD ESG US STOCK ETF,Equity,Broad Market,Blend,N.A.,United States,N.A.,N.A.,0.09,N
+,,,,,,,,,,,,VEU,VANGUARD FTSE ALL-WORLD EX-U,Equity,Large-cap,Blend,N.A.,International,N.A.,N.A.,0.08,N
+,,,,,,,,,,,,VEA,VANGUARD FTSE DEVELOPED ETF,Equity,Large-cap,Blend,N.A.,International,N.A.,N.A.,0.05,N
+,,,,,,,,,,,,VWO,VANGUARD FTSE EMERGING MARKE,Equity,Broad Market,Blend,N.A.,International,N.A.,N.A.,0.08,N
+,,,,,,,,,,,,VGK,VANGUARD FTSE EUROPE ETF,Equity,Large-cap,Blend,N.A.,European Region,N.A.,N.A.,0.11,N
+,,,,,,,,,,,,VUG,VANGUARD GROWTH ETF,Equity,Large-cap,Growth,N.A.,United States,N.A.,N.A.,0.04,N
+,,,,,,,,,,,,VHT,VANGUARD HEALTH CARE ETF,Equity,Broad Market,Blend,Health Care,United States,N.A.,N.A.,0.1,N
+,,,,,,,,,,,,VYM,VANGUARD HIGH DVD YIELD ETF,Equity,Large-cap,Value,N.A.,United States,N.A.,N.A.,0.06,N
+,,,,,,,,,,,,VGT,VANGUARD INFO TECH ETF,Equity,Large-cap,Growth,Technology,United States,N.A.,N.A.,0.1,N
+,,,,,,,,,,,,VO,VANGUARD MID-CAP ETF,Equity,Mid-cap,Blend,N.A.,United States,N.A.,N.A.,0.04,N
+,,,,,,,,,,,,VNQ,VANGUARD REAL ESTATE ETF,Equity,Broad Market,Blend,Real Estate,United States,N.A.,N.A.,0.12,N
+,,,,,,,,,,,,VOO,VANGUARD S&P 500 ETF,Equity,Large-cap,Blend,N.A.,United States,N.A.,N.A.,0.03,N
+,,,,,,,,,,,,VXUS,VANGUARD TOTAL INTL STOCK,Equity,Large-cap,Blend,N.A.,International,N.A.,N.A.,0.07,N
+,,,,,,,,,,,,VTI,VANGUARD TOTAL STOCK MKT ETF,Equity,Broad Market,Blend,N.A.,United States,N.A.,N.A.,0.03,N
+,,,,,,,,,,,,VTV,VANGUARD VALUE ETF,Equity,Large-cap,Value,N.A.,United States,N.A.,N.A.,0.04,N
+,,,,,,,,,,,,FTSL,FIRST TRUST SENIOR LOAN FUND,Fixed Income,N.A.,Corporate,N.A.,Global,N.A.,High Yield,0.87,Y
+,,,,,,,,,,,,HYLS,FIRST TRUST TACTICAL HIGH YIELD ETF,Fixed Income,N.A.,Corporate,N.A.,Global,N.A.,High Yield,1.02,Y
+,,,,,,,,,,,,SHY,ISHARES 1-3 YEAR TREASURY BO,Fixed Income,N.A.,Government,N.A.,United States,Short-Term,Investment Grade A or higher,0.15,N
+,,,,,,,,,,,,IGSB,ISHARES 1-5Y INV GRADE CORP,Fixed Income,N.A.,Corporate,N.A.,United States,Short-Term,Investment Grade BBB or higher,0.04,N
+,,,,,,,,,,,,TLT,ISHARES 20+ YEAR TREASURY BO,Fixed Income,N.A.,Government,N.A.,United States,Long-Term,Investment Grade A or higher,0.15,N
+,,,,,,,,,,,,IEF,ISHARES 7-10 YEAR TREASURY B,Fixed Income,N.A.,Government,N.A.,United States,Long-Term,Investment Grade A or higher,0.15,N
+,,,,,,,,,,,,IUSB,ISHARES CORE TOTAL BOND ETF,Fixed Income,N.A.,Aggregate,N.A.,Global,N.A.,Investment Grade BBB or higher,0.06,N
+,,,,,,,,,,,,AGG,ISHARES CORE U.S. AGGREGATE,Fixed Income,N.A.,Aggregate,N.A.,United States,N.A.,Investment Grade BBB or higher,0.03,N
+,,,,,,,,,,,,FALN,ISHARES FALLEN ANGELS USD BOND ETF,Fixed Income,N.A.,Corporate,N.A.,United States,N.A.,High Yield,0.25,N
+,,,,,,,,,,,,HYG,ISHARES IBOXX HIGH YLD CORP,Fixed Income,N.A.,Corporate,N.A.,United States,N.A.,High Yield,0.48,N
+,,,,,,,,,,,,LQD,ISHARES IBOXX INVESTMENT GRA,Fixed Income,N.A.,Corporate,N.A.,United States,N.A.,Investment Grade BBB or higher,0.14,N
+,,,,,,,,,,,,EMB,ISHARES JP MORGAN USD EMERGI,Fixed Income,N.A.,Government,N.A.,International,Intermediate,N.A.,0.39,N
+,,,,,,,,,,,,MBB,ISHARES MBS ETF,Fixed Income,N.A.,Mortgage-Backed,N.A.,United States,N.A.,Investment Grade A or higher,0.04,N
+,,,,,,,,,,,,MUB,ISHARES NATIONAL MUNI BOND E,Fixed Income,N.A.,Municipals,N.A.,United States,N.A.,Investment Grade BBB or higher,0.07,N
+,,,,,,,,,,,,SHV,ISHARES SHORT TREASURY BOND,Fixed Income,N.A.,Government,N.A.,United States,Ultra Short,Investment Grade A or higher,0.15,N
+,,,,,,,,,,,,TIP,ISHARES TIPS BOND ETF,Fixed Income,N.A.,Inflation Protected,N.A.,United States,Intermediate,Investment Grade A or higher,0.19,N
+,,,,,,,,,,,,GOVT,ISHARES US TREASURY BOND ETF,Fixed Income,N.A.,Government,N.A.,United States,Intermediate,Investment Grade A or higher,0.05,N
+,,,,,,,,,,,,JPST,JPMORGAN ULTRA-SHORT INCOME,Fixed Income,N.A.,Aggregate,N.A.,Global,Ultra Short,Investment Grade BBB or higher,0.18,Y
+,,,,,,,,,,,,BIL,SPDR BLOOMBERG 1-3 MONTH T-B,Fixed Income,N.A.,Government,N.A.,United States,Ultra Short,Investment Grade A or higher,0.135,N
+,,,,,,,,,,,,JNK,SPDR BLOOMBERG HIGH YIELD BOND ETF,Fixed Income,N.A.,Corporate,N.A.,United States,N.A.,High Yield,0.4,N
+,,,,,,,,,,,,VCIT,VANGUARD INT-TERM CORPORATE,Fixed Income,N.A.,Corporate,N.A.,United States,Intermediate,Investment Grade BBB or higher,0.04,N
+,,,,,,,,,,,,VCSH,VANGUARD S/T CORP BOND ETF,Fixed Income,N.A.,Corporate,N.A.,United States,Short-Term,Investment Grade BBB or higher,0.04,N
+,,,,,,,,,,,,BSV,VANGUARD SHORT-TERM BOND ETF,Fixed Income,N.A.,Aggregate,N.A.,United States,Short-Term,Investment Grade BBB or higher,0.04,N
+,,,,,,,,,,,,VGSH,VANGUARD SHORT-TERM TREASURY,Fixed Income,N.A.,Government,N.A.,United States,Short-Term,Investment Grade A or higher,0.04,N
+,,,,,,,,,,,,VTEB,VANGUARD TAX-EXEMPT BOND ETF,Fixed Income,N.A.,Municipals,N.A.,United States,Intermediate,Investment Grade BBB or higher,0.05,N
+,,,,,,,,,,,,BND,VANGUARD TOTAL BOND MARKET,Fixed Income,N.A.,Aggregate,N.A.,United States,N.A.,Investment Grade BBB or higher,0.03,N
+,,,,,,,,,,,,BNDX,VANGUARD TOTAL INTL BOND ETF,Fixed Income,N.A.,Aggregate,N.A.,International,N.A.,Investment Grade BBB or higher,0.07,N
